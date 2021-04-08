@@ -1,6 +1,6 @@
 import React, {PureComponent} from "react";
 import listIcon from "../Icons/list.svg";
-import kanbanIcon from "../Icons/S-placeholder.svg";
+import kanbanIcon from "../Icons/s-placeholder.svg";
 import styled from "styled-components";
 import {Link} from "react-router-dom";
 

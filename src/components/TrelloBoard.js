@@ -7,7 +7,7 @@ import styled from "styled-components";
 import {sort, setActiveBoard} from "../actions";
 import {Link} from "react-router-dom";
 import listIcon from "../Icons/list.svg";
-import kanbanIcon from "../Icons/S-placeholder.svg";
+import kanbanIcon from "../Icons/s-placeholder.svg";
 import Header from "./Header";
 
 const ListsContainer = styled.div`display: flex;  flex-direction: row;`;
