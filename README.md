@@ -1,2 +1,5 @@
-# Kanban-boards
-Kanban boards
+Сustomer: Prosoft
+
+Task: Kanban Board v.3
+
+Developer: Zhumaev Alexey
